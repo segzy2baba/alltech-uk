@@ -2254,7 +2254,7 @@ span.prev-price {
 /*----- Contact Section
 --------------------------------------------------------------*/
 #download-app {
-  background: #edebe4;
+  /* background: #edebe4; */
   padding: 120px 0;
   overflow: hidden;
   z-index: 0;
